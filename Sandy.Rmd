@@ -1,0 +1,24 @@
+---
+title: "SANDY"
+author: "Argyro"
+date: "1/6/2021"
+output: pdf_document
+---
+
+
+## My dog
+
+Sandy was my favourite dog. It was a mixed maltaise and pequinois. White long straigt hair and  a cute face.
+
+
+### Happy life
+
+It lived happily giving and receiving love. It reached 18 years of age and died of deap old age.  
+```{r }
+print ("hello world")
+```
+- ARGYRO  
+- **THEODOR**  
+- **SOTIRIS**  
+- *MERRY CRISTMAS*  
+- [FACEBOOK](https://www.facebook.com)  
